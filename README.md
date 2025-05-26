@@ -116,8 +116,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-     printf("NIKSHITHA G\n");
-     printf("212223110031\n");
+     printf("Magesh C M\n");
+     printf("212223220053\n");
      HAL_Delay(500);
   }
 }
